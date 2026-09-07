@@ -36,7 +36,39 @@ The main objectives are:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
+
+```text
+Sales-Analytics-Dashboard/
+
+│
+├── 📁 dashboard/
+│   └── 📄 app.py
+│
+├── 📁 images/
+│   ├── 🖼️ sales_by_category.jpg
+│   ├── 🖼️ annual_sales_growth.jpg
+│   ├── 🖼️ monthly_sales_trend.jpg
+│   ├── 🖼️ profit_margin_category.jpg
+│   ├── 🖼️ loss_making_products.jpg
+│   └── 🖼️ correlation_heatmap.jpg
+│
+├── 📁 .devcontainer/
+│
+├── 📁 sql/
+│
+├── 📁 src/
+│
+├── 📓 01_Sales_Analytics_EDA.ipynb
+│
+├── 📓 02_Sales_Analytics_Final.ipynb
+│
+├── 📄 requirements.txt
+│
+├── 📄 .gitignore
+│
+└── 📄 README.md
+```
 
 
 
