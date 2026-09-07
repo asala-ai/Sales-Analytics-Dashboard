@@ -24,7 +24,7 @@ The main objectives are:
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.jpg)
 
 # 🛠️ Technologies Used
 
