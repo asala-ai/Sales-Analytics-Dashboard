@@ -22,6 +22,9 @@ The main objectives are:
 - Support business decision-making using data insights
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
 
 # 🛠️ Technologies Used
 
