@@ -54,10 +54,6 @@ Sales-Analytics-Dashboard/
 │
 ├── 📁 .devcontainer/
 │
-├── 📁 sql/
-│
-├── 📁 src/
-│
 ├── 📓 01_Sales_Analytics_EDA.ipynb
 │
 ├── 📓 02_Sales_Analytics_Final.ipynb
