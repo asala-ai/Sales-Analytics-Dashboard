@@ -31,7 +31,6 @@ The main objectives are:
 - Matplotlib
 - Seaborn
 - Streamlit
-- SQL
 - GitHub
 
 ---
